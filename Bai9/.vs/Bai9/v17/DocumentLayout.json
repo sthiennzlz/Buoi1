@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7F3B88-7061-486F-8A6A-252531A0861F}|Bai13\\Bai13.vcxproj|D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai13\\Bai13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E7F3B88-7061-486F-8A6A-252531A0861F}|Bai13\\Bai13.vcxproj|solutionrelative:Bai13\\Bai13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E84154C-2A2B-45CD-9E35-5094A4EE75B8}|Bai12\\Bai12.vcxproj|D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai12\\Bai12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E84154C-2A2B-45CD-9E35-5094A4EE75B8}|Bai12\\Bai12.vcxproj|solutionrelative:Bai12\\Bai12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35054E33-828A-426C-897F-63D0F13E486A}|Bai11\\Bai11.vcxproj|D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai11\\Bai11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35054E33-828A-426C-897F-63D0F13E486A}|Bai11\\Bai11.vcxproj|solutionrelative:Bai11\\Bai11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FE099F-422F-440B-8989-27060E0170B9}|Bai10\\Bai10.vcxproj|D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai10\\Bai10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54FE099F-422F-440B-8989-27060E0170B9}|Bai10\\Bai10.vcxproj|solutionrelative:Bai10\\Bai10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CEDD09-A64E-4496-A100-8C6AE2DC779D}|Bai9\\Bai9.vcxproj|D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai9\\Bai9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9CEDD09-A64E-4496-A100-8C6AE2DC779D}|Bai9\\Bai9.vcxproj|solutionrelative:Bai9\\Bai9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai13.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai13\\Bai13.cpp",
+              "RelativeDocumentMoniker": "Bai13\\Bai13.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai13\\Bai13.cpp",
+              "RelativeToolTip": "Bai13\\Bai13.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T15:19:38.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai12.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai12\\Bai12.cpp",
+              "RelativeDocumentMoniker": "Bai12\\Bai12.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai12\\Bai12.cpp",
+              "RelativeToolTip": "Bai12\\Bai12.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T15:09:45.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai11.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai11\\Bai11.cpp",
+              "RelativeDocumentMoniker": "Bai11\\Bai11.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai11\\Bai11.cpp",
+              "RelativeToolTip": "Bai11\\Bai11.cpp",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAAAC0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T14:19:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai10.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai10\\Bai10.cpp",
+              "RelativeDocumentMoniker": "Bai10\\Bai10.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai10\\Bai10.cpp",
+              "RelativeToolTip": "Bai10\\Bai10.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T13:53:47.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai9.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai9\\Bai9.cpp",
+              "RelativeDocumentMoniker": "Bai9\\Bai9.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTVN_B1\\Bai9\\Bai9\\Bai9.cpp",
+              "RelativeToolTip": "Bai9\\Bai9.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T08:26:02.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

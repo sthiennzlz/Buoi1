@@ -1,0 +1,4 @@
+﻿  Bai9.cpp
+D:\TH-KTLT\HUIT\BTVN_B1\Bai9\Bai9\Bai9.cpp(14,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\TH-KTLT\HUIT\BTVN_B1\Bai9\Bai9\Bai9.cpp(14,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Bai9.vcxproj -> D:\TH-KTLT\HUIT\BTVN_B1\Bai9\x64\Debug\Bai9.exe
