@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF13E3-C723-4214-AA1C-484639E0E8BF}|Bai6\\Bai6.vcxproj|D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai6\\Bai6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4EF13E3-C723-4214-AA1C-484639E0E8BF}|Bai6\\Bai6.vcxproj|solutionrelative:Bai6\\Bai6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF13E3-C723-4214-AA1C-484639E0E8BF}|Bai6\\Bai6.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F3C76-7A88-4047-BC2A-E6FBFCD49D01}|Bai8\\Bai8.vcxproj|D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai8\\Bai8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7F3C76-7A88-4047-BC2A-E6FBFCD49D01}|Bai8\\Bai8.vcxproj|solutionrelative:Bai8\\Bai8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4026F6D4-B327-4531-B669-21A1E96FB100}|Bai7\\Bai7.vcxproj|D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai7\\Bai7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4026F6D4-B327-4531-B669-21A1E96FB100}|Bai7\\Bai7.vcxproj|solutionrelative:Bai7\\Bai7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TH-KTLT\\HUIT\\BTTrenlop\\BTTrenlop\\Bai5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAADoEAAAAAAAAAAAgwEoEAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-15T15:40:16.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai8.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai8\\Bai8.cpp",
+              "RelativeDocumentMoniker": "Bai8\\Bai8.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai8\\Bai8.cpp",
+              "RelativeToolTip": "Bai8\\Bai8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T10:10:31.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai7.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai7\\Bai7.cpp",
+              "RelativeDocumentMoniker": "Bai7\\Bai7.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai7\\Bai7.cpp",
+              "RelativeToolTip": "Bai7\\Bai7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T09:52:21.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai6.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai6\\Bai6.cpp",
+              "RelativeDocumentMoniker": "Bai6\\Bai6.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTTrenlop_B1\\Bai6\\Bai6.cpp",
+              "RelativeToolTip": "Bai6\\Bai6.cpp",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T09:24:38.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai5.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTTrenlop\\BTTrenlop\\Bai5.cpp",
+              "RelativeDocumentMoniker": "..\\BTTrenlop\\BTTrenlop\\Bai5.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTTrenlop\\BTTrenlop\\Bai5.cpp",
+              "RelativeToolTip": "..\\BTTrenlop\\BTTrenlop\\Bai5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T08:47:00.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
